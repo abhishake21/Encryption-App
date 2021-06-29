@@ -9,6 +9,8 @@ I have created a GUI App and a CLI version as well. At first i just created a si
 If you dont want do that then copy the code and install `auto-py-to-exe` - https://pypi.org/project/auto-py-to-exe/ and convert the .py file into exe.
 
 Follow this video - https://www.youtube.com/watch?v=Y0HN9tdLuJo to convert py to exe
+
+Now when you press Encrypt/Decrypt button you might also encounter a dialogue box like [this](https://user-images.githubusercontent.com/67749693/123821128-c4417a00-d918-11eb-9744-0504a008a13c.png) from Your AV in my case Norton. Just press `View Details` and then `Exclude Process` in [Action tab](https://user-images.githubusercontent.com/67749693/123821118-c3104d00-d918-11eb-864f-dea50c14e0f1.png) and rerun the app. This process might differ from AV to AV.
 #
 
 Both programs are written in python and the GUI app is made using Tkinter. If you want to know how the encryption works behind the app then check out the [blog](https://medium.com/@abhishake21) i wrote about how the code works. 
