@@ -19,6 +19,9 @@ Basically uses:
 * Cryptography library - https://pypi.org/project/cryptography/
 * PBKDF2 explained in this video - https://youtu.be/cMykd0jScSY?t=234
 
-I have also added Jupyter notebooks for clearer understanding of the code.
+I have also added Jupyter notebooks for clear understanding of the code.
+#
 
 Below are videos of how the app works.
+* GUI App - https://www.youtube.com/watch?v=3FOK-_7ejOY
+* Python CLI - https://www.youtube.com/watch?v=HufmEo6C1pg
