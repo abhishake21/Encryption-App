@@ -3,7 +3,8 @@ A simple python program that lets you Encrypt and Decrypt files and folders usin
 So far tested with txt / png / jpeg / json / html / csv / zip / mp3 / mp4 / pdf
 
 I have created a GUI App and a CLI version as well. At first i just created a simple CLI version but then i got tired of typing the full path of the files one by one and so i created a GUI app for it. I have included both versions, so use which ever you like. I prefer GUI cause its very easy to just run the exe and encrypt files and folder.
-#
+
+![Encryption App](https://user-images.githubusercontent.com/67749693/123956857-c82cd500-d9c8-11eb-8f7b-4d86b5b6a30b.png)
 
 ## The only problem with the GUI app is that it might trigger your Windows Defender or Antivirus so you might have to create an exclusion for the app.
 If you dont want do that then copy the code and install `auto-py-to-exe` - https://pypi.org/project/auto-py-to-exe/ and convert the .py file into exe.
