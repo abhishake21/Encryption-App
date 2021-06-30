@@ -16,7 +16,7 @@ Now when you press Encrypt/Decrypt button you might also encounter a dialogue bo
 
 Both programs are written in python and the GUI app is made using Tkinter. If you want to know how the encryption works behind the app then check out the blog i wrote about how the code works.
 
-Blog - https://medium.com/@abhishake21
+Blog - https://medium.com/@abhishake21/encrypt-and-decrypt-files-and-folder-with-a-password-and-salt-of-your-choice-using-python-7101840b2753
 
 Basically uses:
 * Cryptography library - https://pypi.org/project/cryptography/
