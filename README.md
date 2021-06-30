@@ -13,7 +13,9 @@ Follow this video - https://www.youtube.com/watch?v=Y0HN9tdLuJo to convert py to
 Now when you press Encrypt/Decrypt button you might also encounter a dialogue box like [this](https://user-images.githubusercontent.com/67749693/123821128-c4417a00-d918-11eb-9744-0504a008a13c.png) from Your AV in my case Norton. Just press `View Details` and then `Exclude Process` in [Action tab](https://user-images.githubusercontent.com/67749693/123821118-c3104d00-d918-11eb-864f-dea50c14e0f1.png) and rerun the app. This process might differ from AV to AV.
 #
 
-Both programs are written in python and the GUI app is made using Tkinter. If you want to know how the encryption works behind the app then check out the [blog](https://medium.com/@abhishake21) i wrote about how the code works. 
+Both programs are written in python and the GUI app is made using Tkinter. If you want to know how the encryption works behind the app then check out the blog i wrote about how the code works.
+
+Blog - https://medium.com/@abhishake21
 
 Basically uses:
 * Cryptography library - https://pypi.org/project/cryptography/
@@ -23,5 +25,5 @@ I have also added Jupyter notebooks for clear understanding of the code.
 #
 
 Below are videos of how the app works.
-* GUI App - https://www.youtube.com/watch?v=3FOK-_7ejOY
-* Python CLI - https://www.youtube.com/watch?v=HufmEo6C1pg
+* GUI App - https://www.youtube.com/watch?v=ZhcIAd3owko
+* Python CLI - https://www.youtube.com/watch?v=YaxM0zI9x1A
