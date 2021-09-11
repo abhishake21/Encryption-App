@@ -28,3 +28,7 @@ I have also added Jupyter notebooks for clear understanding of the code.
 Below are videos of how the app works.
 * GUI App - https://www.youtube.com/watch?v=ZhcIAd3owko
 * Python CLI - https://www.youtube.com/watch?v=YaxM0zI9x1A
+#
+
+Use at your own risk.
+* Backup your files before encrypting if something goes wrong.
