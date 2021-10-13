@@ -18,7 +18,7 @@ Both programs are written in python and the GUI app is made using Tkinter. If yo
 
 Blog - https://medium.com/@abhishake21/encrypt-and-decrypt-files-and-folder-with-a-password-and-salt-of-your-choice-using-python-7101840b2753
 
-Basically uses:
+Basically uses - 
 * Cryptography library - https://pypi.org/project/cryptography/
 * PBKDF2 explained in this video - https://youtu.be/cMykd0jScSY?t=234
 
