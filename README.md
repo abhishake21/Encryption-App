@@ -1,6 +1,5 @@
 # Encryption-App
-A simple python program that lets you Encrypt and Decrypt files and folders using a password and salt of your choice.                            
-So far tested with txt / png / jpeg / json / html / csv / zip / mp3 / mp4 / pdf
+A simple python program that lets you Encrypt and Decrypt files and folders using a password and salt of your choice.
 
 I have created a GUI App and a CLI version as well. At first, i just created a simple CLI version but then i got tired of typing the full path of the files one by one and so i created a GUI app for it. I have included both versions, so use which ever you like. I prefer GUI cause its very easy to just run the exe and encrypt files and folder.
 
@@ -16,7 +15,7 @@ Now when you press Encrypt/Decrypt button you might also encounter a dialogue bo
 
 Both programs are written in python and the GUI app is made using Tkinter. If you want to know how the encryption works behind the app then check out the blog i wrote about how the code works.
 
-Blog - https://medium.com/@abhishake21/encrypt-and-decrypt-files-and-folder-with-a-password-and-salt-of-your-choice-using-python-7101840b2753
+Blog - https://hashnode.com/preview/61eedc11c99aed184e7278e5
 
 Basically uses - 
 * Cryptography library - https://pypi.org/project/cryptography/

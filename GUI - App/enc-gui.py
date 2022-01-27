@@ -211,7 +211,7 @@ If you wanna learn more about how the app works the code can be found on my gith
 This program is written in Python and uses Tkinter for its GUI.
 Not the best looking but gets the job done :)''')
 def openblog():
-    webbrowser.open('https://medium.com/@abhishake21/encrypt-and-decrypt-files-and-folder-with-a-password-and-salt-of-your-choice-using-python-7101840b2753',1)
+    webbrowser.open('https://hashnode.com/preview/61eedc11c99aed184e7278e5',1)
 
 
 # DarkMode Function
